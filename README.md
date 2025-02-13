@@ -13,8 +13,8 @@ Olá, Prazer me chamo Henrique!!
 <br>
 <br>
 
-Meu: <a href="https://www.linkedin.com/in/henrique-andrade-1965652ab/"><img width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="img-linke" alt="Logo Linkedin"></a><br>
-Meu: <a href="https://www.instagram.com/henrique_andradeh_/" class="link-insta"><img width="90px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" img="img-insta" alt="Instagram logo"></a>
+<a href="https://www.linkedin.com/in/henrique-andrade-1965652ab/"><img width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="img-linke" alt="Logo Linkedin"></a><br>
+<a href="https://www.instagram.com/henrique_andradeh_/" class="link-insta"><img width="90px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" img="img-insta" alt="Instagram logo"></a>
 
 
 [![Henrique Stats](https://github-readme-stats.vercel.app/api?username=KODY0)](https://github.com/anuraghazra/github-readme-stats)
