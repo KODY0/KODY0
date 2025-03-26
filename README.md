@@ -8,8 +8,7 @@ Olá, Prazer me chamo Henrique!!
                     🧠   - JavaScript;<br>
    
 👨‍💻 Estou estudando Programação!!
-🔨 Atualmente não trabalho na área, mas é meu sonho...
-       e Vou Conseguir!! 🙏
+🔨 Atualmente não trabalho na área, mas eu vou, um dia!!
 <br>
 <br>
 
